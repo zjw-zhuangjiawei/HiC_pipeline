@@ -11,7 +11,7 @@ Python requirements:
 - Python 3.7+
 - matplotlib 2.0+
 - biopython 1.78+
-- pairtools 0.3.0+
+- pairtools 1.0+
 - cooler 0.8.6+
 
 Other requirements:
